@@ -1,2 +1,2 @@
-# AICTE-Internship-Project-main
-"A Python program for hiding secret messages in images to secure data against unauthorized access. This project uses steganography to embed text within images, offering a simple yet effective data protection solution." ​
+# AICTE-Internship-Project
+I developed a program For hiding a secret message or text in an image using python. For Securing the theft of data by the hackers.
